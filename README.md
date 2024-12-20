@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm YuChia-Wei 👋
 
-<!--
-**YuChia-Wei/YuChia-Wei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient and scalable software. Here's a bit about me and my work:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Epic Tech Taiwan](https://www.epictech.com.tw/)
+- 📫 How to reach me: [Your Email or Social Media Handles]
+- ⚡ Fun fact: [A Fun Fact About You]
+
+## 🛠️ Languages and Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 📈 GitHub Stats
+
+![YuChia-Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChia-Wei&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![YuChia-Wei's GitHub trophies](https://github-profile-trophy.vercel.app/?username=YuChia-Wei&theme=darkhub)
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/YuChia-Wei/)
+- [Twitter](https://twitter.com/YuChia-Wei)
+- [Personal Blog](https://yuchia-wei.github.io/)
+
+Thanks for stopping by! 😊
