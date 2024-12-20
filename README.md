@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [Epic Tech Taiwan](https://www.epictech.com.tw/)
-- 📫 How to reach me: [Your Email or Social Media Handles]
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ## 🛠️ Languages and Tools
 
