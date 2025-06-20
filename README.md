@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Epic Tech Taiwan](https://www.epictech.com.tw/)
+- 🔭 I’m currently exploring new opportunities and seeking my next challenge in software development.
 
 ## 🛠️ Languages and Tools
 
