@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/YuChia-Wei/)
-- [Twitter](https://twitter.com/YuChia-Wei)
 - [Personal Blog](https://yuchia-wei.github.io/)
 
 Thanks for stopping by! 😊
